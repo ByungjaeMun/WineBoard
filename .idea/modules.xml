@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wineboard.iml" filepath="$PROJECT_DIR$/.idea/modules/wineboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wineboard_main.iml" filepath="$PROJECT_DIR$/.idea/modules/wineboard_main.iml" group="wineboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wineboard_test.iml" filepath="$PROJECT_DIR$/.idea/modules/wineboard_test.iml" group="wineboard" />
+    </modules>
+  </component>
+</project>
